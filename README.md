@@ -1,12 +1,12 @@
 Hey there, Nicolas here ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ===============================================================================================================================
 
-Computer Science Student
+Computer Engineering Student 
 ------------------------
 
-I am a third-year Bachelor's student in Computer Science with a keen interest in various technologies. I have a strong affinity for automation, IoT, and related areas.
+I am currently a first-year student in a Computer engineering program with a keen interest in various technologies. I have a strong affinity for automation, IoT, and related areas.
 
-*   🌍  I'm based in Anglet (🇫🇷)
+*   🌍  I'm based in Alès (🇫🇷)
 *   🧠  I'm learning Kubernetes
 *   🏎️  I love cars
 
